@@ -104,10 +104,6 @@ body{
 }
 
 @media print {
-  *:not(.card button){
-    font-family: 'Times New Roman', Times, serif;
-  }
-
   body{
     background-image: none;
   }
